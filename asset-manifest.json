@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ipl-discovery/static/css/main.60869d60.chunk.css",
+    "main.js": "/react-ipl-discovery/static/js/main.05a2e343.chunk.js",
+    "main.js.map": "/react-ipl-discovery/static/js/main.05a2e343.chunk.js.map",
+    "runtime-main.js": "/react-ipl-discovery/static/js/runtime-main.f92d656b.js",
+    "runtime-main.js.map": "/react-ipl-discovery/static/js/runtime-main.f92d656b.js.map",
+    "static/js/2.d338d256.chunk.js": "/react-ipl-discovery/static/js/2.d338d256.chunk.js",
+    "static/js/2.d338d256.chunk.js.map": "/react-ipl-discovery/static/js/2.d338d256.chunk.js.map",
+    "static/js/3.5459cd89.chunk.js": "/react-ipl-discovery/static/js/3.5459cd89.chunk.js",
+    "static/js/3.5459cd89.chunk.js.map": "/react-ipl-discovery/static/js/3.5459cd89.chunk.js.map",
+    "index.html": "/react-ipl-discovery/index.html",
+    "static/css/main.60869d60.chunk.css.map": "/react-ipl-discovery/static/css/main.60869d60.chunk.css.map",
+    "static/js/2.d338d256.chunk.js.LICENSE.txt": "/react-ipl-discovery/static/js/2.d338d256.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f92d656b.js",
+    "static/js/2.d338d256.chunk.js",
+    "static/css/main.60869d60.chunk.css",
+    "static/js/main.05a2e343.chunk.js"
+  ]
+}
