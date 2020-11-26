@@ -1,4 +1,4 @@
-# IPL Discovery Page
+# IPL Discovery
 
 Created a discovery page for IPL(2006-2016) where users can search their favourite teams and explore a particular match score, player of the match, etc.
 
